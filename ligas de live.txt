@@ -1,0 +1,12 @@
+https://developer.mozilla.org/en-US/docs/Web/API/Navigator/clipboard
+https://developer.mozilla.org/en-US/docs/Web/API/Navigator/clipboard
+
+https://trello.com/b/Z4VGD03z/challenge-encriptador-fer
+
+https://www.figma.com/file/trP3p5nEh7XUyB3n2bomjP/Alura-Challenge---Desaf%C3%ADo-1---L%C3%B3gica?node-id=2%3A72&t=Szjx8TLVbiTrqHcW-0
+
+https://www.aluracursos.com/challenges/challenge-one-logica/sprint01-construye-un-encriptador-texto-con-javascript
+
+
+https://www.youtube.com/watch?v=oQgt8BF2wAg&ab_channel=AluraLatam part 1
+https://www.youtube.com/watch?v=DVjp-TJihAM&ab_channel=AluraLatam part 2
